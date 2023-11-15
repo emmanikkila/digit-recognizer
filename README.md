@@ -3,7 +3,7 @@
 [Link to the Report](digit-recognizer.ipynb)
 
 ### Aim of the Assignment
-The task is to create a digit recognizer, calculate its accuracy metrix, and create predictions with the model.
+The task is to create a digit recognizer, calculate its accuracy, and create predictions with the model.
 
 ### About the Dataset
 Source: [TensorFlow](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/mnist/load_data) \
